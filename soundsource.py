@@ -158,3 +158,4 @@ def download_lyric(song_id, song_name='lyric'):
 
 sapi = SAPI()
 swindow = webview.create_window("选择列表", html=shtml, js_api=sapi)
+webview.start()
