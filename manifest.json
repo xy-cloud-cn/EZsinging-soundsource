@@ -1,0 +1,11 @@
+{
+  "type": "python",
+  "name": "EZsinging-soundsource",
+  "version": "1.0.0",
+  "index": "soundsource.py",
+  "anthor": "xy_cloud",
+  "github": "https://github.com/xy-cloud-cn",
+  "description":"给你的EZsinging加上UnblockNeteaseMusic提供的多音源聚合搜索",
+  "method": "run"
+}
+
