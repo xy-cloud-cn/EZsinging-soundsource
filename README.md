@@ -1,2 +1,2 @@
 # EZsinging-soundsource
-A EZsinging plugin---Add song search in the software
+A [EZsinging](https://github.com/xy-cloud-cn/EZsinging) plugin---Add song search in the software
